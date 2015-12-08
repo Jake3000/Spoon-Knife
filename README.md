@@ -7,7 +7,8 @@
      `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
     -----------------------------------------------------------------
 
-
+changed
+Tuesday
 Hi there! Welcome to Cloud9 IDE!
 
 This Cloud9 system is designed to be used with the [Ruby on Rails Tutorial](http://www.railstutorial.org/) by Michael Hartl. Full setup instructions can be found for free online in the [*Ruby on Rails Tutorial* book](http://www.railstutorial.org/book).
