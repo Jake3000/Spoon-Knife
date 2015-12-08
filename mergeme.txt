@@ -1,5 +1,1 @@
-new
-changeddddd
-eeee
-ffff
-Tuesday
+deleted content in mergeme.txt
